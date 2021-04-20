@@ -1,0 +1,6 @@
+course_id,user_id,role,status
+math,matt,Student,active
+science,lindsey,Faculty Admin,active
+art,nicole,Student,active
+gym,mark,Student,active
+lunch,,,
